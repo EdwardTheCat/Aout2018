@@ -1,13 +1,13 @@
 h1 {
-    color: red;
+    color: grey;
 }
 
 h2  {
-    color : pink;
+    color :blue;
 }
 
 ul { 
-    color: blue;
+    color: royalblue;
 }
 
 a {display: block;}
